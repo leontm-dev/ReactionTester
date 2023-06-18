@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/favicon.png",
         "backgroundColor": "#545457"
-      }
+      },
+      "package": "com.leontm.ReactionTester"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "03786034-b094-488e-aee2-43aaa05d3823"
+      }
     }
   }
 }
